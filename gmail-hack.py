@@ -17,7 +17,6 @@ RAND = random.choice(colors)
 
 GMAIL_PORT = '587'
 
-
 # CHANDU BANER
 def artwork():
     print("\n")
