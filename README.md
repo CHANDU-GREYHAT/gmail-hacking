@@ -10,6 +10,8 @@ use these following commands to hack a gmail account
 
 `apt install python3`
 
+if its already installed in your, you can go with the following code
+
 `git clone https://github.com/chandu-grayhat/gmail-hack.py.git`
 
 `ls`
