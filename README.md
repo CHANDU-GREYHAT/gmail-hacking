@@ -19,8 +19,8 @@ use these following commands to hack a gmail account
 
 `python gmail-hack.py`
 
-<center> # Hi 👋,Developer chandu
-## A passionate ethical hacker </center>
+# Hi 👋,Developer chandu
+## A passionate ethical hacker 
 
 🔭 I’m currently working on Hacking Tools Developer
 
