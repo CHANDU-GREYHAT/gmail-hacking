@@ -5,13 +5,13 @@ kali linux Gmail id brut force attack
 use these following commands to hack a gmail account
 
 
-`apt update
-apt install python
-apt install python3
-git clone https://github.com/chandugrayhat/gmail-hack.py.git
-ls
-cd gmail-hack.py
-python gmail-hack.py`
+`apt update<br>
+apt install python<br>
+apt install python3<br>
+git clone https://github.com/chandugrayhat/gmail-hack.py.git<br>
+ls<br>
+cd gmail-hack.py<br>
+python gmail-hack.py<br>`
 ---
 
 🔭 I’m currently working on Hacking Tools Developer
