@@ -4,7 +4,8 @@ kali linux Gmail id brut force attack
 
 use these following commands to hack a gmail account
 
-<span>
+Use the `print()` function to display output.
+
 apt update
 apt install python
 apt install python3
